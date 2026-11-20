@@ -1,4 +1,4 @@
-public class Main {
+public class DistanceValueBetweenArrays {
     public static int findTheDistanceValue(int[] arr1, int[] arr2, int d) {
         int count = 0;
         for (int a : arr1) {
