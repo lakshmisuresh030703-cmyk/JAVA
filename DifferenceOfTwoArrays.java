@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Main {
+public class DifferenceOfTwoArrays {
     public static List<List<Integer>> findDifference(int[] nums1, int[] nums2) {
         Set<Integer> set1 = new HashSet<>();
         Set<Integer> set2 = new HashSet<>();
