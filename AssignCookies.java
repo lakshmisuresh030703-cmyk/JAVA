@@ -1,5 +1,5 @@
 import java.util.Arrays;
-public class Main {
+public class AssignCookies {
     public static int findContentChildren(int[] g, int[] s) {
         Arrays.sort(g);
         Arrays.sort(s);
