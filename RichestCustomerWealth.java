@@ -1,4 +1,4 @@
-public class Main {
+public class RichestCustomerWealth {
     public static int maximumWealth(int[][] accounts) {
         int maxWealth = 0;
         for (int[] account : accounts) {
