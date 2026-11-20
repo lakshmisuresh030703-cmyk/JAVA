@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 import java.util.List;
-public class Main {
+public class LuckyNumbersInMatrix {
     public static List<Integer> luckyNumbers(int[][] matrix) {
         List<Integer> result = new ArrayList<>();
         for (int i = 0; i < matrix.length; i++) {
