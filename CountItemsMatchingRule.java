@@ -1,5 +1,5 @@
 import java.util.List;
-public class Main {
+public class CountItemsMatchingRule {
     public static int countMatches(List<List<String>> items, String ruleKey, String ruleValue) {
         int index = ruleKey.equals("type") ? 0 : ruleKey.equals("color") ? 1 : 2;
         int count = 0;
