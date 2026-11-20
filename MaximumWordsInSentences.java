@@ -1,4 +1,4 @@
-public class Main {
+public class MaximumWordsInSentences {
     public static int mostWordsFound(String[] sentences) {
         int max = 0;
         for (String sentence : sentences) {
