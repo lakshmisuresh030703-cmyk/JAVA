@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
-public class Main {
+public class KidsWithGreatestCandies {
     public static List<Boolean> kidsWithCandies(int[] candies, int extraCandies) {
         int max = 0;
         for (int candy : candies) if (candy > max) max = candy;
