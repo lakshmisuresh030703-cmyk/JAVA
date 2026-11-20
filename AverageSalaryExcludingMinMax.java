@@ -1,5 +1,5 @@
 import java.util.Arrays;
-public class Main {
+public class AverageSalaryExcludingMinMax {
     public static double average(int[] salary) {
         Arrays.sort(salary);
         int sum = 0;
