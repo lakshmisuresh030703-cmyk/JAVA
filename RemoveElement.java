@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class Main {
+public class RemoveElement {
     public static int removeElement(int[] nums, int val) {
         int index = 0;
         for (int num : nums) {
