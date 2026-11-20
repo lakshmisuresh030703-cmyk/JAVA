@@ -1,5 +1,5 @@
 import java.util.Arrays;
-public class Main {
+public class ArithmeticProgressionSequence {
     public static boolean canMakeArithmeticProgression(int[] arr) {
         Arrays.sort(arr);
         int difference = arr[1] - arr[0];
