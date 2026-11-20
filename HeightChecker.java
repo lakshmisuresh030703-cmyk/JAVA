@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class Main {
+public class HeightChecker {
     public static int heightChecker(int[] heights) {
         int[] sorted = heights.clone();
         Arrays.sort(sorted);
