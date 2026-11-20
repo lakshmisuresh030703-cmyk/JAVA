@@ -1,4 +1,4 @@
-public class Main {
+public class PivotIndex {
     public static int pivotIndex(int[] nums) {
         int total = 0, left = 0;
         for (int num : nums) total += num;
