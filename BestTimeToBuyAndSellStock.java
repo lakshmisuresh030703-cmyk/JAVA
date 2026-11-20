@@ -1,4 +1,4 @@
-public class Main {
+public class BestTimeToBuyAndSellStock {
     public static int maxProfit(int[] prices) {
         int minPrice = prices[0], profit = 0;
         for (int price : prices) {
