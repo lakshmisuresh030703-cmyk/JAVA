@@ -1,4 +1,4 @@
-public class Main {
+public class NumberOfGoodPairs {
     public static int numIdenticalPairs(int[] nums) {
         int pairs = 0;
         for (int i = 0; i < nums.length; i++) {
