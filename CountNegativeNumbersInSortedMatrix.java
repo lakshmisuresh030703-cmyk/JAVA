@@ -1,4 +1,4 @@
-public class Main {
+public class CountNegativeNumbersInSortedMatrix {
     public static int countNegatives(int[][] grid) {
         int count = 0;
         for (int[] row : grid)
