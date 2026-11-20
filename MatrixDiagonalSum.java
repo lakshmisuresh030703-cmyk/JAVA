@@ -1,4 +1,4 @@
-public class Main {
+public class MatrixDiagonalSum {
     public static int diagonalSum(int[][] mat) {
         int sum = 0, n = mat.length;
         for (int i = 0; i < n; i++) {
