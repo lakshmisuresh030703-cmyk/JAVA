@@ -1,4 +1,4 @@
-public class Main {
+public class HighestAltitude {
     public static int largestAltitude(int[] gain) {
         int current = 0, max = 0;
         for (int value : gain) {
